@@ -47,15 +47,20 @@
 
 </td></tr></table>  
 
+<!-- Instuction to modify charts https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization -->
 <br/>
+<table align="center" ><tr><td valign="top" width="50%" align="center>
 	<a href="https://github.com/gudzsv">
-		<img alt="Serhii Hudzenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gudzsv&title_color=f16529&text_bold=false&text_color=33a9dc&show_icons=true&icon_color=e0234e&ring_color=e0234e&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d"/>
+		<img alt="Serhii Hudzenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gudzsv&title_color=f16529&text_bold=false&text_color=33a9dc&show_icons=true&icon_color=e0234e&ring_color=e0234e&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d&hide=contribs"/>
 	</a>
+ </td><td valign="top" width="50%" align="center>
 	<a href="https://github.com/gudzsv">
-	<img alt="Serhii Hudzenko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudzsv&langs_count=8&count_private=true&layout=compact&title_color=f16529&text_bold=false&text_color=33a9dc&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d" />
+		<img alt="Serhii Hudzenko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudzsv&langs_count=8&count_private=true&layout=compact&title_color=f16529&text_bold=false&text_color=33a9dc&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d" />
 	</a>
+ </td></tr></table> 
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
 <br/>
 <div align="center">
