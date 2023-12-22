@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer" />
+</div>
+
 <!--
 **gudzsv/gudzsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
