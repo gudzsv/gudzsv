@@ -6,7 +6,7 @@
 
 <table><tr><td valign="top" width="33%" align="center">
 
-<div style="color: #41b883; margin-bottom: 10px;" align="center">Frontend</div>
+<div style="color: #41b883; margin-bottom: 10px;" align="center" color=" #41b883">Frontend</div>
 <div>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="./img/frontend/html5.svg" alt="HTML5" height="40" />
 </a>
