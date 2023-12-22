@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm Serhii Hudzenko, a <span style="color:#41b883;">full-stack developer</span> working remotely since 2018 </div>
 
-#### <div  align="left">With <span style="color:#41b883;">{\color{red}over 10 years of experience in IT}</span>, my career has been primarily centered around the development of the Siebel CRM system. However, at present, I am actively immersing myself in the realm of web development and mobile applications, with a specific focus on backend technologies such as Node.js and NestJS. I find it fascinating to stay updated on the latest IT developments, and I consistently strive to be at the forefront of emerging trends.
+#### <div  align="left">With <span style="color:#41b883;">${\color{red}over 10 years of experience in IT}</span>, my career has been primarily centered around the development of the Siebel CRM system. However, at present, I am actively immersing myself in the realm of web development and mobile applications, with a specific focus on backend technologies such as Node.js and NestJS. I find it fascinating to stay updated on the latest IT developments, and I consistently strive to be at the forefront of emerging trends.
 
 ## <span style="color:#e0234e;">My Skill Set</span>
 
