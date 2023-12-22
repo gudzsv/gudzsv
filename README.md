@@ -47,19 +47,17 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+	<a href="https://github.com/gudzsv">
+		<img alt="Serhii Hudzenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gudzsv&title_color=f16529&text_bold=false&text_color=33a9dc&show_icons=true&icon_color=e0234e&ring_color=e0234e&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d"/>
+	</a>
+	<a href="https://github.com/gudzsv">
+	<img alt="Serhii Hudzenko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudzsv&langs_count=8&count_private=true&layout=compact&title_color=f16529&text_bold=false&text_color=33a9dc&bg_color=0d1117&hide_border=true&border_radius=6&border_color=30363d" />
+	</a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gudzsv&show_icons=true&icon_color=e1a81d&ring_color=e1a81d&title_color=39cbd1&text_bold=false&text_color=f78166&bg_color=0d1117&hide_border=true&border_color=30363d&border_radius=6"/>
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudzsv&layout=compact&langs_count=8&card_width=320&hide_border=true&border_color=30363d&border_radius=6&bg_color=0d1117&title_color=39cbd1&text_color=f78166"/>
- </a>
-</div>
-
-
+<br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gudzsv&&style=flat-square" align="center" />
 </div>  
