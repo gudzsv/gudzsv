@@ -5,7 +5,7 @@
 ## <span style="color:#e0234e;">My Skill Set</span>
 
 <table><tr><td valign="top" width="33%" align="center">
-<div style="color: #41b883; margin-bottom: 10px;" align="center">Frontend</div>
+<div style="color: #41b883; margin-bottom: 10px;" align="center">Front-end</div>
 
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./img/frontend/html5.svg" alt="HTML5" height="40" /></a>
@@ -18,7 +18,7 @@
 </div>
 
 </td><td valign="top" width="33%" align="center">
-<div style="color: #41b883; margin-bottom: 10px;" align="center">Backend</div>
+<div style="color: #41b883; margin-bottom: 10px;" align="center">Back-end</div>
 
 <div align="center">
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./img/backend/nodejs.svg" alt="Node.js" height="40" /></a>
