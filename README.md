@@ -43,6 +43,19 @@
   </div>
 </div>
 
+![Top Langs]
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gudzsv&show_icons=true&icon_color=e1a81d&ring_color=e1a81d&title_color=39cbd1&text_bold=false&text_color=f78166&bg_color=0d1117&hide_border=true&border_color=30363d&border_radius=6"/>
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudzsv&layout=compact&langs_count=8&card_width=320&hide_border=true&border_color=30363d&border_radius=6&bg_color=0d1117&title_color=39cbd1&text_color=f78166"/>
+ </a>
+</div>
+
+
+
+
 <!--
 **gudzsv/gudzsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
