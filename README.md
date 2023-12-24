@@ -78,8 +78,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gudzsv&&style=flat-square" align="center" />
 </div>
+<div align="right">
 
 [<img src="./img/go-up/up-strange.png" height="40" alt="Go up the page button" title="Go up the page"/>](#top)
+
+</div>
 
 <!--
 **gudzsv/gudzsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
