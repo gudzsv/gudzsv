@@ -80,7 +80,7 @@
 </div>
 <div align="right">
 
-[<img src="./img/go-up/up-strange.png" height="40" alt="Go up the page button" title="Go up the page"/>](#top)
+[<img src="./img/go-up/up-strange.png" height="50" alt="Go up the page button" title="Go up the page"/>](#top)
 
 </div>
 
