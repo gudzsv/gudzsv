@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # <div align="center"> Hello, I'm Serhii Hudzenko, a <span style="color:#41b883;"> **Full-Stack** </span>developer</div>
 
 #### With **over 10 years of experience in IT**, my career has been primarily centered around the development of the Siebel CRM system. However, at present, I am actively immersing myself in the realm of web development and mobile applications, with a specific focus on backend technologies such as Node.js and NestJS. I find it fascinating to stay updated on the latest IT developments, and I consistently strive to be at the forefront of emerging trends.
@@ -71,11 +73,13 @@
 ## <span style="color:#e0234e;">GitHub Trophies</span>
 
 ![](https://github-profile-trophy.vercel.app/?username=gudzsv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gudzsv&&style=flat-square" align="center" />
 </div>
+
+[<img src="./img/go-up/up-orange.png" height="40" alt="go to top button"/>](#top)
 
 <!--
 **gudzsv/gudzsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -90,4 +94,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
