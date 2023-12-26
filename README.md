@@ -47,7 +47,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="./img/devops/os/linux.svg" alt="Linux" height="40" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/github.svg" alt="Git" height="40" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/gitlab.svg" alt="GitLab" height="40" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/webpack.svg" alt="Webpack" height="30" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/webpack.svg" alt="Webpack" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/vscode.svg" alt="VS Code" height="40" /></a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/webshtorm.svg" alt="Webstorm" height="40" /></a>
 <a href="https://www.figma.com/community/" target="_blank"><img style="margin: 10px" src="./img/frontend/figma.svg" alt="Figma" height="40" /></a>
