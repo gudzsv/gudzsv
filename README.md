@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# <div align="center"> Hello, I'm Serhii Hudzenko, a <span style="color:#41b883;"> **Full-Stack** </span>developer</div>
+# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a <span style="color:#41b883;"> **Full-Stack**</span>developer</div>
 
 #### With **over 10 years of experience in IT**, my career has been primarily centered around the development of the Siebel CRM system. However, at present, I am actively immersing myself in the realm of web development and mobile applications, with a specific focus on backend technologies such as Node.js and NestJS. I find it fascinating to stay updated on the latest IT developments, and I consistently strive to be at the forefront of emerging trends.
 
