@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a **Full-Stack Developer | React, Node.js | 10+ Years in IT**</div>
+# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a Full-Stack Developer</div>
 
 **Full-Stack Developer | React, Node.js | 10+ Years in IT**
 
