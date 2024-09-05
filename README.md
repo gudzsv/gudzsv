@@ -1,8 +1,8 @@
 <a id="top"></a>
 
-# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a Full-Stack Developer</div>
+# <div align="center">🖐 Hello, I'm Serhii Hudzenko</div>
 
-### Full-Stack Developer | React, Node.js | 10+ Years in IT**
+## <div align="center">Full-Stack Developer | React, Node.js | 10+ Years in IT</div>
 
 With over ten years of experience in the IT industry, I have developed a deep understanding of system design, implementation, and integration. My career includes working on both non-commercial and commercial projects, where I have served as both an individual contributor and a team lead. A notable achievement is the successful creation of a commercial landing page using JavaScript, which demonstrated my ability to deliver effective solutions and achieve business goals.
 
