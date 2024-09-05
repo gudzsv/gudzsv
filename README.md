@@ -1,8 +1,15 @@
 <a id="top"></a>
 
-# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a <span style="color:#41b883;"> **Full-Stack** </span>developer</div>
+# <div align="center">🖐 Hello, I'm Serhii Hudzenko, a **Full-Stack Developer | React, Node.js | 10+ Years in IT**</div>
 
-#### With **over 10 years of experience in IT**, my career has been primarily centered around the development of the Siebel CRM system. However, at present, I am actively immersing myself in the realm of web development and mobile applications, with a specific focus on backend technologies such as Node.js and NestJS. I find it fascinating to stay updated on the latest IT developments, and I consistently strive to be at the forefront of emerging trends.
+**Full-Stack Developer | React, Node.js | 10+ Years in IT**
+
+With over ten years of experience in the IT industry, I have developed a deep understanding of system design, implementation, and integration. My career includes working on both non-commercial and commercial projects, where I have served as both an individual contributor and a team lead. A notable achievement is the successful creation of a commercial landing page using JavaScript, which demonstrated my ability to deliver effective solutions and achieve business goals.
+
+In the past two years, I have focused on developing my skills as a full-stack developer, specializing in **React** and **Node.js**. My passion for technology drives me to stay at the forefront of new trends and continuously adapt my knowledge. I am currently working on enhancing my skills with frameworks like **Next.js** for improved frontend development and **NestJS** for building robust backend solutions.
+
+I enjoy tackling complex problems and finding innovative solutions in the tech world. My goal is to continuously improve my skills and create valuable digital products. I am inspired by working on new projects and exploring the latest advancements to achieve better results and success in every project.
+
 
 ## <span style="color:#e0234e;">My Skill Set</span>
 
